@@ -1,0 +1,5 @@
+file_path,label
+data/raw/example_gunshot.wav,gunshot
+data/raw/example_chainsaw.wav,chainsaw
+data/raw/example_vehicle.wav,vehicle
+data/raw/example_forest.wav,normal_forest
